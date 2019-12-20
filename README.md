@@ -35,4 +35,4 @@
 使用webpack将Vue项目打包。
 将打包的Vue项目集成到springboot项目中。
 使用gradle将springboot打包成jar文件。
-使用jdk运行jar包来启动demo项目服务，请访问地址查看效果。
+使用jdk运行jar包来启动demo项目服务
