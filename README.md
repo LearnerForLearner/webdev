@@ -1,5 +1,5 @@
 # webdev
-通过后端 Spring Boot 技术和前端 Vue 技术来简单实现一个登录功能
+通过后端 Spring Boot 技术和前端 Vue框架来简单实现一个登录功能
 
 # 技术栈描述
 ## 前端技术栈：
